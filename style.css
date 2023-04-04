@@ -1,0 +1,27 @@
+.tudo{
+    background-color: #ecc4c4;
+    color: rgb(240, 100, 100);
+}
+
+.imagem{
+    background-color: #ecc4c4;
+
+}
+ 
+.panqueca-1{
+    width: 34%;
+}
+
+.ingredientes-novo{
+    justify-content: center;
+    align-items: center;
+}
+
+.ingredientes{
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
